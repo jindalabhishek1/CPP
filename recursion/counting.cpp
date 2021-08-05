@@ -12,6 +12,7 @@ int main (void)
     cout << "Enter the number untill which you want to count: ";
     cin >> num;
     
+    // function call for counting
     count (num);
 }
 
